@@ -1,3 +1,10 @@
+'''#########################################
+# Title:  Web scraping using BeautifulSoup #
+# Author: Shivam Chahar                    #
+# Date:   28 Jan 2018                      #
+############################################
+Reference: https://www.youtube.com/channel/UCzL_0nIe8B4-7ShhVPfJkgw
+'''
 import bs4
 
 from urllib.request import urlopen as uReq
