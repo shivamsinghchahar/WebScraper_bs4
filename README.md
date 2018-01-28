@@ -1,2 +1,2 @@
-# WebScrapper_bs4
+# WebScraper_bs4
 Web Scraping using BeautifulSoup in python3.x
